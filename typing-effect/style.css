@@ -1,0 +1,12 @@
+.animate {
+  white-space: nowrap;
+  animation: typing 2s steps(20) infinte;
+}
+@keyframes typing {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}

@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Kanit:ital@1&family=Montserrat:ital,wght@0,600;1,700&family=Permanent+Marker&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Permanent Marker", cursive;
+}
+
+.container {
+  display: flex;
+  width: 380px;
+  background-color: green;
+  padding: 10px;
+  justify-content: center;
+  color: white;
+}
+.container h1 {
+  letter-spacing: 0.2rem;
+}
